@@ -1,0 +1,5 @@
+ignoredBuiltDependencies:
+  - '@nestjs/core'
+  - better-sqlite3
+  - sqlite3
+  - unrs-resolver
